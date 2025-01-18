@@ -27,7 +27,7 @@ df = df.select(\
 	)
 
 # print schema of dataframe with new columns
-print(df.schema)	
+print(df.schema)
 
 #print 10 records from dataframe
 df.show(10)
